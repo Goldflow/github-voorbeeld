@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+    color: royalblue;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 2px;
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    display: inline-block;
+    width: 100%;
+}
+
+a:active, a:visited {
+    color:cornflowerblue;
+}
+
+a:hover {
+    color: cornsilk;
+    background-color: cornflowerblue;
+}
