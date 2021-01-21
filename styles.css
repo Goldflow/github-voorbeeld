@@ -8,7 +8,7 @@ ul {
     list-style-type: none;
 }
 
-li {
+.lijst li {
     padding: 2px;
     text-align: center;
     width: 100%;
@@ -26,4 +26,32 @@ a:active, a:visited {
 a:hover {
     color: cornsilk;
     background-color: cornflowerblue;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+    background-color: black;
+}
+
+.orange:hover {
+    color: cornsilk;
+    background-color: orange;
+}
+
+.red:hover {
+    color: cornsilk;
+    background-color: red;
+}
+
+.yellow:hover {
+    color: cornflowerblue;
+    background-color: yellow;
 }
