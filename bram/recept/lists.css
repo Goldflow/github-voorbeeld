@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+div.eighty{
+  width: 25%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.content{
+  width: 80%;
+  background-image: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95c3a34f9.png");
+  color: black;
+  font-weight: bold;
+}
+.unordered{
+  color: darkblue;
+}
+.ordered{
+  color: darkgreen;
+}
+.no_decoration{
+  text-decoration: none;
+}
+.button{
+  border: 5px solid darkblue;
+  background-color: blue;
+  color: yellow;
+  width: 250px;
+}
+a.btnlink{
+  color: yellow;
+}
+

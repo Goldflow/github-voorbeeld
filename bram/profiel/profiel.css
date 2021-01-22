@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.content{
+	width: 90%;
+	margin: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.background_1{
+	width: 100%;
+	background-color: #FFF3CD;
+}
+.profielfoto{
+	padding: 20px;
+}
+.margin_l{
+	margin-left: 10px;
+}
+.bg1_2{
+	padding: 15px;
+}
+.space{
+	padding-top: 15px;
+}
+.bgpic{
+	background-image: url("images/div_background.jpg");
+}
+p.dromen{
+	color: lightcoral;
+}
+h3{
+	color:lightcoral
+}
+.space_2{
+	padding-top: 15px;
+}
