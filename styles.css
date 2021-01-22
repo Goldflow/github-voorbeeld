@@ -28,15 +28,15 @@ a:hover {
     background-color: cornflowerblue;
 }
 
-.orange {
+.orange, .orange:visited{
     color: orange;
 }
 
-.red {
+.red, .red:visited {
     color: red;
 }
 
-.yellow {
+.yellow, .yellow:visited {
     color: yellow;
     background-color: black;
 }
