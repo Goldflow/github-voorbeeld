@@ -38,3 +38,10 @@ h3{
 .space_2{
 	padding-top: 15px;
 }
+blockquote{
+	padding: 0 1em;
+    color: #11A22D;
+    border-left: 0.25em solid #11A22D;
+	font-size: 30px;
+	justify-content: center;
+}
