@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap');
+
+
+
+body {
+    margin-left: 15%;
+    background-image: url(https://i.pinimg.com/originals/46/df/a5/46dfa5cc77e25ac46ebf2b363b63a48f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+p{
+    font-weight: 600;
+    font-size: large;
+}
+
+img {
+    border-radius: 50%;
+    height: 8rem;
+    margin-right: 2rem;
+    
+}
+
+.head{
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.text{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 10rem;
+}
+
+ul {
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+    padding-left: 1.2em;
+    margin-bottom: 3rem;
+}
+
+ol {
+	position: relative;
+	margin-left: 0;
+    padding-left: 1.2em;
+    margin-bottom: 3rem;
+}
+
+
+ul li:before {
+	content: "|";
+	position: absolute;
+	left: 0;
+}
+
+.container-text{
+    display: flex;
+}  
+
+.video{
+    z-index: 9000;
+    margin-bottom: 3rem;
+    
+}
