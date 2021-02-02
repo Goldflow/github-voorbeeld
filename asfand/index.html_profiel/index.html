@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>h</title>
+<style>
+    
+    
+    {
+    min-height: 100%; /* Dit is vereist om er zeker van te zijn dat het kleurverloop zich uitstrekt over de hele pagina */
+}
+
+body {
+    background: -webkit-linear-gradient(#1f9aa3, #C9DCB9); /* Chrome 10+, Safari 5.1+ */
+    background: -o-linear-gradient(#93B874, #C9DCB9); /* Opera 11.1+ */
+    background: -moz-linear-gradient(#93B874, #C9DCB9); /* Firefox 3.6+ */
+    background: linear-gradient(#2f01ff, #C9DCB9); /* Standaard syntax (moet als laatste) */
+    background-color: #14779e; /* Het is een goed idee om een achtergrondkleur in te stellen, voor het geval het kleurverloop niet laadt */
+}
+
+
+.flex-container {
+  display: flex;  
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+
+.flex-container > div {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 0, 0);
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px; 
+}
+body 
+{
+    
+}
+</style>
+</head>
+<body>
+    <!-- put navigation menu just below here -->
+    <p> </p>
+    <a href="default.asp" target="_blank"></a>
+    <div class="flex-container">
+      <div style="flex-basis:200px"><a href="index.html">Home</a></div>
+      <div style="flex-basis:200px"><a href="over-mij.html">over-mij</a></div>
+      <div style="flex-basis:200px"><a href="einde.html"> contact</a></div>
+    </div> 
+
+</body>
+</html>
+
