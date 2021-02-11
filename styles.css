@@ -55,3 +55,10 @@ a:hover {
     color: cornflowerblue;
     background-color: yellow;
 }
+
+.costum-color-gilian {
+    color: rgb(255, 255, 255);
+    background-color: pink;
+    text-decoration: none;
+    font-size: xx-large;
+}
