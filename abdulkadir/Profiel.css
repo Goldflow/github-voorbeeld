@@ -1,0 +1,65 @@
+body {
+    background-image: url("Foto.jpg");
+    background-attachment: fixed;
+}
+h1 {
+    color: rgb(204, 204, 204);
+    font-size: 50px;
+    margin-top: 70px;
+    text-align: center;
+    text-shadow: 5px 5px rgb(48, 2, 2);
+    
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+    margin-top: -60px;
+}
+.p1 {
+    margin-left: 600px;
+}
+.container {
+    width: 80%;
+    height: 200px;
+ 
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .div1 {
+    width: 50;
+    font-size: 40px;
+    color: rgb(204, 204, 204);
+    height: 200px;
+    text-shadow: 5px 5px rgb(48, 2, 2);
+    float: left;
+  }
+  
+  .div2 {
+    width: 60%;
+    margin-left: 35%;
+    margin-top: 50px;
+    font-size: 30px;
+    color: rgb(204, 204, 204);
+    height: 200px;
+    text-shadow: 5px 5px rgb(48, 2, 2);
+  
+}
+audio {
+    margin-top: 20px;
+}
+.div3 {
+    font-size: 30px;
+    text-shadow: 5px 5px rgb(48, 2, 2);
+    color: rgb(204, 204, 204);
+    margin-top: 300px;
+    margin-left: 150px;
+}
+
+.div4 {
+    font-size: 30px;
+    text-shadow: 5px 5px rgb(48, 2, 2);
+    color: rgb(204, 204, 204);
+    margin-left: 150px;
+}
