@@ -1,0 +1,95 @@
+<style>
+    
+    body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('j63.jpg');
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  } 
+  .text{
+          padding: 20px;
+          justify-content: center;
+          text-align: center;
+          background-blend-mode: overlay;
+          background-color: hsla(60, 48%, 81%, 0.26);
+          border-radius: 30%;
+          width: 60vh;
+          height: 103vh;
+          
+          
+        }  
+        
+        
+  h1{
+          font-family: 'arizonia';
+          font-size: 20px;
+          color:rgb(240, 183, 169);
+          }    
+          h2{
+          font-family: 'arizonia';
+          font-size: 17px;
+          color:rgb(105, 43, 27);
+          } 
+          h3{
+          font-family: 'arizonia';
+          font-size: 15px;
+          color:rgb(0, 0, 0);
+          }             
+  p{
+   font-family: 'arizonia';
+  font-size: 15px;
+  color: rgb(59, 10, 87);
+  margin:0;
+  
+  }
+      ol{
+          color: rgb(252, 252, 252);
+         font-family:'arizonia';
+         font-size: 14px;
+  
+      }  
+     ul{
+         color: rgb(252, 252, 252);
+         font-family:'arizonia';
+         font-size: 14px;
+         
+     }   
+  
+  img{
+      width: 18%;
+  }
+  video{
+      width:23%;
+      justify-content:center ;
+  }
+  audio{
+      width: 50%;
+  }
+  #mais{
+      font-family: 'arizonia';
+      color: aliceblue;
+  
+  }
+  #app{
+      font-family: 'Arizonia';
+      color: aliceblue;
+  
+  }
+  #ike{
+      font-family: 'Arizonia';
+      color: aliceblue;
+  
+  }
+      
+  
+  
+          
+  
+      </style>
